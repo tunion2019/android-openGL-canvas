@@ -1,0 +1,3 @@
+【碰到了类似的问题，用AS 2022.3，java 17】
+Android问题记录 - Unable to make field private final java.lang.String java.io.File.path accessible（持续更新）
+https://blog.csdn.net/crasowas/article/details/130002017
